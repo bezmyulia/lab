@@ -1,0 +1,6 @@
+K:\C#\console application 8\List-Value-Types\bin\Debug\List-Value-Types.exe.config
+K:\C#\console application 8\List-Value-Types\bin\Debug\List-Value-Types.exe
+K:\C#\console application 8\List-Value-Types\bin\Debug\List-Value-Types.pdb
+K:\C#\console application 8\List-Value-Types\obj\Debug\List-Value-Types.csproj.CoreCompileInputs.cache
+K:\C#\console application 8\List-Value-Types\obj\Debug\List-Value-Types.exe
+K:\C#\console application 8\List-Value-Types\obj\Debug\List-Value-Types.pdb
